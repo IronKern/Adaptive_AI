@@ -7,8 +7,7 @@ import asyncio
 from collections import deque
 
 class AdaptiveAI(commands.Cog):
-“”“An adaptive AI chat cog that learns from server slang”””
-
+"""An adaptive AI chat cog that learns from server slang"""
 ```
 def __init__(self, bot: Red):
     self.bot = bot
