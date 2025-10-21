@@ -364,5 +364,5 @@ async def ai_info(self, ctx: commands.Context):
 ```
 
 async def setup(bot: Red):
-“”“Setup function for the cog”””
+"""Setup function for the cog"""
 await bot.add_cog(AdaptiveAI(bot))
