@@ -1,0 +1,13 @@
+{
+    "author": ["IronKern"],
+    "install_msg": "Thank you for installing AdaptiveAI! Use `/aiaddkey` to add your Mistral API keys (up to 8). Then set a free-room channel with `/aisetfreeroom` or just mention the bot to chat! made by BigFlush",
+    "name": "AdaptiveAI",
+    "short": "Adaptive AI chat bot that learns from server slang",
+    "description": "An intelligent Discord bot powered by Mistral AI that learns from your server's conversation style and adapts its responses. Supports up to 8 API keys with automatic failover.",
+    "tags": ["ai", "chat", "mistral", "adaptive", "learning"],
+    "requirements": ["mistralai"],
+    "min_bot_version": "3.5.0",
+    "hidden": false,
+    "disabled": false,
+    "type": "COG"
+}
